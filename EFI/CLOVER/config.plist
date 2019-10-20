@@ -301,7 +301,7 @@
 		<key>Secure</key>
 		<false/>
 		<key>Timeout</key>
-		<integer>0</integer>
+		<integer>1</integer>
 	</dict>
 	<key>Devices</key>
 	<dict>
@@ -367,7 +367,7 @@
 				<key>Comment-layout-id</key>
 				<string>AppleALC layout-id for ALC298 (ALC3266 according to Dell) audio</string>
 				<key>layout-id</key>
-				<integer>72</integer>
+				<integer>32</integer>
 			</dict>
 		</dict>
 	</dict>
