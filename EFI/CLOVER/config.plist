@@ -658,7 +658,7 @@
 			<true/>
 		</dict>
 		<key>Theme</key>
-		<string>Mojave</string>
+		<string>clover-theme-minimal</string>
 	</dict>
 	<key>Graphics</key>
 	<dict>
